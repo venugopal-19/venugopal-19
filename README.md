@@ -96,6 +96,8 @@ I'm building my foundation as a student developer while exploring the exciting w
 - 🛠️ Understanding how real-world software is built
 - 🤖 Using AI thoughtfully in my workflow to improve efficiency, automate repetitive tasks, and learn faster
 
+---
+
 ### 🚀 What's Next
 
 - 📚 Deepen my DSA and problem-solving skills
@@ -108,6 +110,8 @@ I'm building my foundation as a student developer while exploring the exciting w
 - 🤝 Participate in hackathons and collaborative projects
 - 🌍 Explore open-source contributions
 - 💼 Work toward internship opportunities
+
+---
 
 ### 🌐 Long-Term Direction
 
