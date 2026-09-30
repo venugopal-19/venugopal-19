@@ -4,7 +4,7 @@
 
 I'm a BCA student passionate about programming, problem solving, and building practical projects.
 
-I believe the best way to learn programming is to **build, experiment, make mistakes, and keep improving&**
+I believe the best way to learn programming is to **build, experiment, make mistakes, and keep improving**
 
 Currently exploring **C++, Data Structures & Algorithms, Python, and Git/GitHub** while building projects and strengthening my fundamentals.
 
